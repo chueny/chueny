@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Chue!</h1>
 
-<!--
-**chueny/chueny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [a REACT weather api](https://github.com/chueny/weather-app-react)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python and REACT**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 I’m looking for help with **leveling up my technical skills**
+
+- 💬 Ask me about **my outdoor adventures**
+
+- 😄 Pronouns: she/her
+
+- ⚡ Fun fact **I love skiing and dabbling in crafts**
+
+- 🔗 See my portfolio [here](https://lambent-cactus-fc5457.netlify.app/)
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chueny&show_icons=true&locale=en&layout=compact" alt="chueny" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chueny&show_icons=true&locale=en" alt="chueny" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chueny&" alt="chueny" /></p>
